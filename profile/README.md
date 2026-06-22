@@ -1,7 +1,7 @@
-# Full-Statck-Skills
+# Full-Stack-Skills
 
 <p align="center">
-  <img alt="Full-Statck-Skills" src="https://raw.githubusercontent.com/full-statck-skills/.github/main/profile/assets/banner.svg" width="800">
+  <img alt="Full-Stack-Skills" src="https://raw.githubusercontent.com/full-statck-skills/.github/main/profile/assets/banner.svg" width="800">
 </p>
 
 <p align="center">
