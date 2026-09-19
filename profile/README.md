@@ -1,4 +1,9 @@
+<div align="center">
+
 # Full-Stack-Skills
+
+</div>
+
 
 <p align="center">
   <img alt="Full-Stack-Skills Logo" src="./assets/logo-512.png" width="220">
